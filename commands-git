@@ -1,0 +1,5 @@
+git clone 
+git push
+git push "nom-du-dépôt" "branche locale"
+git push --all
+git pull "dépôt distant" "branche-à-tirer"
