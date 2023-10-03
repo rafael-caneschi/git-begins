@@ -1,5 +1,1 @@
-git clone 
-git push
-git push "nom-du-dépôt" "branche locale"
-git push --all
-git pull "dépôt distant" "branche-à-tirer"
+commande pour cloner un repository : git clone + lien du repository, les 3 commandes de push : git add, git commit -m + "ajout de nouvelles fonctionnalités", git push origin main
