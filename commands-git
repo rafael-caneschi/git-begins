@@ -1,1 +1,2 @@
 commande pour cloner un repository : git clone + lien du repository, les 3 commandes de push : git add, git commit -m + "ajout de nouvelles fonctionnalités", git push origin main
+commande pour pull : git pull origin main
